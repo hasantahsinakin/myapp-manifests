@@ -4,4 +4,4 @@ resources:
   - ../../base
 images:
   - name: ghcr.io/hasantahsinakin/myapp
-    newTag: latest
+    newTag: 27b072277bff6342ebe9732965d47dcfd98d198e
